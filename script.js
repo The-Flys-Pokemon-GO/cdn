@@ -1,3 +1,4 @@
+<script type="text/javascript">
 function myFunction1() {
 
   var copyText = document.getElementById("cod2");
@@ -218,3 +219,4 @@ function myFunction20() {
 
   alert("Copiado!");
 }
+</script>
