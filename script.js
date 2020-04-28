@@ -1,5 +1,4 @@
-<script type=”text/javascript”>
-function myFunction() {
+function myFunction1() {
 
   var copyText = document.getElementById("cod2");
 
@@ -10,7 +9,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction2() {
 
   var copyText = document.getElementById("cod3");
 
@@ -21,7 +20,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction3() {
 
   var copyText = document.getElementById("cod4");
 
@@ -32,7 +31,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction4() {
 
   var copyText = document.getElementById("cod5");
 
@@ -43,7 +42,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction5() {
 
   var copyText = document.getElementById("cod6");
 
@@ -54,7 +53,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction6() {
 
   var copyText = document.getElementById("cod7");
 
@@ -65,7 +64,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction7() {
 
   var copyText = document.getElementById("cod8");
 
@@ -76,7 +75,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction8() {
 
   var copyText = document.getElementById("cod9");
 
@@ -87,7 +86,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction9() {
 
   var copyText = document.getElementById("cod10");
 
@@ -98,7 +97,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction10() {
 
   var copyText = document.getElementById("cod11");
 
@@ -109,7 +108,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction11() {
 
   var copyText = document.getElementById("cod12");
 
@@ -120,7 +119,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction12() {
 
   var copyText = document.getElementById("cod13");
 
@@ -131,7 +130,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction13() {
 
   var copyText = document.getElementById("cod14");
 
@@ -142,7 +141,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction14() {
 
   var copyText = document.getElementById("cod15");
 
@@ -153,7 +152,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction15() {
 
   var copyText = document.getElementById("cod15");
 
@@ -164,7 +163,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction16() {
 
   var copyText = document.getElementById("cod17");
 
@@ -175,7 +174,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction17() {
 
   var copyText = document.getElementById("cod18");
 
@@ -186,7 +185,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction18() {
 
   var copyText = document.getElementById("cod19");
 
@@ -197,7 +196,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction19() {
 
   var copyText = document.getElementById("cod20");
 
@@ -208,7 +207,7 @@ function myFunction() {
 
   alert("Copiado!");
 }
-function myFunction() {
+function myFunction20() {
 
   var copyText = document.getElementById("cod21");
 
@@ -219,4 +218,3 @@ function myFunction() {
 
   alert("Copiado!");
 }
-</script>
